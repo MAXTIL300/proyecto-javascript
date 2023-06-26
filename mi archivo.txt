@@ -1,1 +1,3 @@
 HOLA mundo  edward //
+
+estoy aprendiendo git
